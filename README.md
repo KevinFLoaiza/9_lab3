@@ -6,3 +6,4 @@ Gabriel Barratt
 Tien Duong
 Darian Payan
 Parth Shrestha
+Kevin Loaiza
